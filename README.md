@@ -1,6 +1,7 @@
 # Scientific-Computing-Finite-Difference
 ![image](https://github.com/haoli94/Scientific-Computing-Finite-Difference/blob/master/algorithm.png)
-
+![image](https://github.com/haoli94/Scientific-Computing-Finite-Difference/blob/master/Results/figure_1.png)
+![image](https://github.com/haoli94/Scientific-Computing-Finite-Difference/blob/master/Results/figure_2.png)
 Usage:./main < inputfile >< prefix >
 It outputs intermediate solutions every 10 iterations and returns total iteration numberwhen the CGSolver converges.
 
